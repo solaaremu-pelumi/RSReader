@@ -1,0 +1,8 @@
+setup.py
+src/RSReader.egg-info/PKG-INFO
+src/RSReader.egg-info/SOURCES.txt
+src/RSReader.egg-info/dependency_links.txt
+src/RSReader.egg-info/entry_points.txt
+src/RSReader.egg-info/top_level.txt
+src/rsreader/__init__.py
+src/rsreader/app.py
