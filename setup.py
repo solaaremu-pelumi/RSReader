@@ -15,6 +15,6 @@ setup(
             ]
     },
     install_requires = [
-        'docutils == 0.4',
+        'docutils == 0.6',
         ],
 )
